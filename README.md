@@ -22,7 +22,7 @@ My favorite kind of problem is the annoying little one I've hit three times this
 - **🎞️ steno** — turns videos into readable notes. It reads the screen first, cross-checks with OCR, and never lets high-entropy strings near an LLM, since those models make up API keys like it's a hobby.
 - **🖨️ plate** — write a post once, then render it for every platform. Named after the printing plate: typeset it once, then print it on any paper size.
 - **⌨️ capstone** — CapsLock is the most wasted real estate on your keyboard, so I put it to work. Tap for English, double-tap for Chinese, hold it for launchers. Works on Windows and macOS.
-- **🛠️ linux-infra** — my little fleet of servers, kept as code: proxies, ingress, and auto-HTTPS. Small boxes, big feelings.
+- **🛠️ infra-fleet** — my little fleet of servers, kept as code: proxies, ingress, and auto-HTTPS. Small boxes, big feelings.
 - **🧠 A growing pile of Claude Code skills** — I'd rather teach an agent something once than explain it to myself forever.
 
 ### 🧭 Things I believe (loosely held, strongly typed)
@@ -58,7 +58,7 @@ Found something interesting, or want to swap notes on tools, agents, or language
 - **🎞️ steno**：把视频变成能读的笔记。先读屏，再拿 OCR 交叉校验，而且坚决不把高熵字符串喂给大模型，因为它编 API Key 编得太顺手了。
 - **🖨️ plate**：一份母版，多个印次。帖子写一次，就能按各个平台的规格出图出文案。名字取自印刷的「印版」：排一次版，印在什么尺寸的纸上都行。
 - **⌨️ capstone**：CapsLock 是键盘上最浪费的一块地皮，所以我把它盘活了。单击切英文，双击切中文，按住当启动器用。Windows 和 macOS 都能跑。
-- **🛠️ linux-infra**：我那几台小服务器的基础设施即代码，代理、入口和自动 HTTPS 都在里面。机器不大，戏挺多。
+- **🛠️ infra-fleet**：我那几台小服务器的基础设施即代码，代理、入口和自动 HTTPS 都在里面。机器不大，戏挺多。
 - **🧠 一堆越攒越多的 Claude Code skills**：同一件事，我宁可认真教 agent 一次，也不想跟自己重复解释一百遍。
 
 ### 🧭 我相信的几件事
